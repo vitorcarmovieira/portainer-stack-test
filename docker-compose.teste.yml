@@ -3,3 +3,6 @@ version: '2'
 services:
   app_teste:
     image: node
+    
+  app_louco:
+    image: alpine
